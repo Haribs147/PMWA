@@ -30,3 +30,24 @@
     <p><strong>Email:</strong> @Model.UserData.Email</p>
     <p><strong>Wiadomość:</strong> @Model.UserData.Message</p>
 }
+
+@*viewdata *@
+
+@* @if (ViewData["Name"] != null)
+{
+    <h3>Wprowadzone dane (ViewData):</h3>
+    <p><strong>Imię:</strong> @ViewData["Name"]</p>
+    <p><strong>Email:</strong> @ViewData["Email"]</p>
+    <p><strong>Wiadomość:</strong> @ViewData["Message"]</p>
+} *@
+
+
+@* sessionns *@
+
+@* @if (ViewData["Name"] != null)
+{
+    <h3>Wprowadzone dane (Sesja):</h3>
+    <p><strong>Imię:</strong> @ViewData["Name"]</p>
+    <p><strong>Email:</strong> @ViewData["Email"]</p>
+    <p><strong>Wiadomość:</strong> @ViewData["Message"]</p>
+} *@
