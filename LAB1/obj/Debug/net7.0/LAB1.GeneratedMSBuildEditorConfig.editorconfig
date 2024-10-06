@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYW5pZTIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/mjago/PAMW/LAB1/Pages/Zadanie3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWmFkYW5pZTMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/mjago/PAMW/LAB1/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

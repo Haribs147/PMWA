@@ -7,9 +7,9 @@ namespace LAB1.Pages
     {
          public class UserModel
         {
-            public string Name { get; set; }
-            public string Email { get; set; }
-            public string Message { get; set; }
+            public string Name { get; set; } = string.Empty;
+            public string Email { get; set; } = string.Empty;
+            public string Message { get; set; } = string.Empty;
         }
     
         public UserModel UserData { get; set; } = new UserModel();
@@ -25,7 +25,7 @@ namespace LAB1.Pages
             // Ustawiamy flagę, żeby dane były widoczne w widoku po przesłaniu
             ShowData = true;
 
-            //VIEWDATA
+            // VIEWDATA
             // ViewData["Name"] = name;
             // ViewData["Email"] = email;
             // ViewData["Message"] = message;
