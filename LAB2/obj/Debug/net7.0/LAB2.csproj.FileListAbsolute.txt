@@ -28,3 +28,6 @@ C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\refint\LAB2.dll
 C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\LAB2.pdb
 C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\LAB2.genruntimeconfig.cache
 C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\ref\LAB2.dll
+C:\Users\mjago\PAMW\LAB2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\LAB2.csproj.AssemblyReference.cache
+C:\Users\mjago\PAMW\LAB2\obj\Debug\net7.0\LAB2.csproj.CopyComplete
