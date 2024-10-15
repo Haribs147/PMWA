@@ -17,11 +17,25 @@ var app = builder.Build();
 // Ensure session middleware is added
 app.UseSession();
 
+app.UseStaticFiles(); // To serve static files like CSS
+
 app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "zadanie1",
+    pattern: "{controller=Zadanie1}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "zadanie2",
+    pattern: "{controller=Zadanie2}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "zadanie3",
+    pattern: "{controller=Zadanie3}/{action=Index}/{id?}");
 
 app.Run();
