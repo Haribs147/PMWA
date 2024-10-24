@@ -13,9 +13,34 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 
     <style>
-        /* Custom CSS to adjust the navbar and content */
+        /* Custom CSS to adjust the navbar, spacing, and content */
         .navbar {
             background-color: #343a40; /* Dark background color for the navbar */
+        }
+
+        .navbar-form .input-group {
+            display: flex;
+            align-items: center;
+            padding: 5px 15px;
+        }
+
+        .navbar-form .input-group .form-control {
+            border: 0;
+            border-radius: 30px;
+            background-color: rgba(255, 255, 255, 0.1); /* Transparent background for search bar */
+            padding-left: 15px;
+            color: white;
+            width: 250px; /* Adjust width to create more space */
+        }
+
+        .navbar-form .input-group .btn {
+            margin-left: 10px; /* Increase spacing between search and icons */
+            background-color: #666666;
+            border-radius: 50%;
+        }
+
+        .navbar-nav .nav-item {
+            margin-left: 15px; /* More space between the navbar icons */
         }
 
         #main-panel .content {
@@ -36,19 +61,19 @@
             <div class="sidebar-wrapper" id="sidebar-wrapper">
                 <ul class="nav">
                     <li class="nav-item">
-                        <a href="/" class="nav-link">
+                        <a href="/Home/Index" class="nav-link">
                             <i class="fas fa-home"></i> <!-- Font Awesome icon for Home -->
                             <p>Home</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="/Privacy" class="nav-link">
+                        <a href="/Home/Privacy" class="nav-link">
                             <i class="fas fa-lock"></i> <!-- Font Awesome icon for Privacy -->
                             <p>Privacy</p>
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a href="/Books" class="nav-link">
+                        <a href="/Books/Index" class="nav-link">
                             <i class="fas fa-book"></i> <!-- Font Awesome icon for Books -->
                             <p>Books</p>
                         </a>
@@ -56,7 +81,7 @@
                     <li class="nav-item">
                         <a href="/Reports" class="nav-link">
                             <i class="fas fa-chart-pie"></i> <!-- Font Awesome icon for Reports -->
-                            <p>Reports</p>
+                          <p>Reports</p>
                         </a>
                     </li>
                 </ul>
@@ -66,7 +91,7 @@
         <!-- Main Panel -->
         <div class="main-panel" id="main-panel">
             <!-- Navbar -->
-            <nav class="navbar navbar-expand-lg navbar-default navbar-absolute fixed-top" id="navigation-example">
+            <nav class="navbar navbar-expand-lg navbar-default navbar-absolute fixed-top">
                 <div class="container-fluid">
                     <div class="navbar-wrapper">
                         <a class="navbar-brand" href="#">@ViewData["Title"]</a>
