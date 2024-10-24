@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using LAB3.Models;
+using lab3.Models;
 
-namespace LAB3.Controllers;
+namespace lab3.Controllers;
 
 public class HomeController : Controller
 {
