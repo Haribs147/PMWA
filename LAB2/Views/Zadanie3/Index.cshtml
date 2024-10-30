@@ -25,22 +25,19 @@
 <ul id="quoteList" class="list-group"></ul>
 
 <script>
-// Helper function to retrieve quotes from Local Storage
 function getQuotes() {
     let quotes = localStorage.getItem('quotes');
     return quotes ? JSON.parse(quotes) : [];
 }
 
-// Helper function to save quotes to Local Storage
 function saveQuotes(quotes) {
     localStorage.setItem('quotes', JSON.stringify(quotes));
 }
 
-// Function to render the list of quotes
 function renderQuotes() {
     let quotes = getQuotes();
     let quoteList = document.getElementById('quoteList');
-    quoteList.innerHTML = ''; // Clear the list before rendering
+    quoteList.innerHTML = ''; 
 
     quotes.forEach((quote, index) => {
         let li = document.createElement('li');

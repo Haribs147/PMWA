@@ -9,10 +9,8 @@
 
 Wykonaliśmy trzy aplikacje:
 1. Kalkulator dodający dwie liczby (MVC).
-2. Lista "TODO" z przechowywaniem danych w sesji.
+2. Lista "TODO" z przechowywaniem danych w sesji  (MVC).
 3. Aplikacja do zarządzania ulubionymi cytatami z wykorzystaniem Local Storage.
-
-Aplikacje zostały wykonane w jednym projekcie za pomoca MVC.
 
 ---
 
@@ -20,8 +18,8 @@ Aplikacje zostały wykonane w jednym projekcie za pomoca MVC.
 
 Aplikacja działa jako prosty kalkulator, który dodaje dwie liczby wprowadzone w formsie przez użytkownika.
 
-- **Model**: Prossty model zawierający dwie liczby oraz wynik.
-- **Widok**: Formularz HTML umożliwia wprowadzenie dwóch liczb oraz przycisk "Dodaj", który za pomocą post'a przesyła dane do kontrolera.
+- **Model**: Prosty model deklarujący dwie liczby oraz wynik.
+- **Widok**: Formularz HTML umożliwiający wprowadzenie dwóch liczb oraz przycisk "Dodaj", który za pomocą post'a przesyła dane do kontrolera.
 - **Kontroler**: Odbiera dane z formularza, dodaje liczby do siebie, a następnie zwraca wynik do widoku.
 
 ### Kod
@@ -48,7 +46,7 @@ public IActionResult AddNumbers(int number1, int number2)
 }
 ```
 
-### Widok
+#### Widok
 ```csharp
 // Kod widoku, form z post'em
 <h2>Calculator - Add Two Numbers</h2>
@@ -107,7 +105,7 @@ public IActionResult AddTodoItem(string description)
 }
 ```
 
-### Widok
+#### Widok
 ```csharp
 // Widok pozwalający wpisywać nowe zadania i wyświetlać już wpisane
 <h2>TODO List</h2>
