@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\viewmodels\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\views\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\views\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\userspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|c:\\users\\mjago\\pamw\\todoapp (3)\\todoapp\\todoapp\\todoapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F1B3F51-0F11-465C-BE62-8B9BB31A0F7E}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\MauiProgram.cs",
+              "RelativeToolTip": "ToDoApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:38:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:38:00.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\App.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:37:43.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\AppShell.xaml",
+              "RelativeToolTip": "ToDoApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:37:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\App.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\App.xaml",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\App.xaml",
+              "RelativeToolTip": "ToDoApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:37:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\UsersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\UsersPage.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\Views\\UsersPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:37:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\UsersPage.xaml",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\UsersPage.xaml",
+              "RelativeToolTip": "ToDoApp\\Views\\UsersPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T17:37:05.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Services\\IToDoService.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Services\\IToDoService.cs",
+              "RelativeToolTip": "ToDoApp\\Services\\IToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:36:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Models\\ToDoItem.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoApp\\Models\\ToDoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:32:29.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "ToDoApp\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-18T16:54:09.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "ToDoApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:54:07.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Services\\ToDoService.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\Services\\ToDoService.cs",
+              "RelativeToolTip": "ToDoApp\\Services\\ToDoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:54:01.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\ViewModels\\ToDoViewModel.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\ViewModels\\ToDoViewModel.cs",
+              "ToolTip": "C:\\Users\\mjago\\PAMW\\ToDoApp (3)\\ToDoApp\\ToDoApp\\ToDoApp\\ViewModels\\ToDoViewModel.cs",
+              "RelativeToolTip": "ToDoApp\\ViewModels\\ToDoViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:53:59.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
