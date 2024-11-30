@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\lab3.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\mjago\\PAMW\\lab3\\wwwroot\\books.json",
+      "PackagePath": "staticwebassets\\books.json"
+    },
+    {
       "Id": "C:\\Users\\mjago\\PAMW\\lab3\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },

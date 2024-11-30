@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HAbodYS9EFl1vttytDn6AchhLOrWUvtrv9AYlUanMU0=",
+  "Hash": "EUl17AnH/ExQ1+QyISVv7a4Y+yq51xmUVs+OS8kAZaA=",
   "Source": "lab3",
   "BasePath": "_content/lab3",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\mjago\\PAMW\\lab3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\lab3.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mjago\\PAMW\\lab3\\wwwroot\\books.json",
+      "SourceId": "lab3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mjago\\PAMW\\lab3\\wwwroot\\",
+      "BasePath": "_content/lab3",
+      "RelativePath": "books.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\books.json"
     },
     {
       "Identity": "C:\\Users\\mjago\\PAMW\\lab3\\wwwroot\\css\\bootstrap.min.css",
